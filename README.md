@@ -99,7 +99,7 @@ The analytical workflow can support:
 
 **Repository:** Zenodo
 
-**DOI:** To be added after publication.
+**DOI:** (https://doi.org/10.5281/zenodo.23698753)
 
 The manuscript has undergone academic manuscript review and technical code review. It should not be described as formally journal peer-reviewed unless a separate qualifying peer-review process has been completed.
 
